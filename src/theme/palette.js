@@ -1,4 +1,4 @@
-const palette = {
+export const palette = {
     white: '#fafafa',
     black: '#212121',
     red: '#ffadad',
@@ -16,5 +16,3 @@ const palette = {
       peach2: '#ffd1d1'
     },
 }
-
-export default palette;

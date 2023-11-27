@@ -1,4 +1,4 @@
-const typography = {
+export const typography = {
   fontSize: 12,
 
   h1: {
@@ -90,5 +90,3 @@ const typography = {
     lineHeight: '16px',
   },
 };
-
-export default typography;

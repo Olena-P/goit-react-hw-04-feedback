@@ -4,6 +4,4 @@ import typography from './typography';
 import radii from './radii';
 import spacing from './spacing';
 
-const theme = { palette, breakpoints, typography, radii, spacing };
-
-export default theme;
+export const theme = { palette, breakpoints, typography, radii, spacing };
